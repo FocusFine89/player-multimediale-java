@@ -17,4 +17,8 @@ public abstract class Multimedia {
     }
     //Metodi
 
+
+    public String getNome() {
+        return nome;
+    }
 }

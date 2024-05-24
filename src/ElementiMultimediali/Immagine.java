@@ -31,4 +31,6 @@ public class Immagine extends Multimedia implements Show {
         this.luminosita = luminosita;
 
     }
+
+
 }
